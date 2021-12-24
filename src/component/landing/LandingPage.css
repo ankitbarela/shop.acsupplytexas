@@ -1,0 +1,146 @@
+.contain{
+    padding-top:20px;
+}
+
+.contain .image-box{
+    border: 1px solid black;
+    width: 50%;
+    margin-top: 2%;
+    padding: 8%;
+    border-radius: 12px;
+}
+
+.contain .price-box{
+    border: 1px solid black;
+    width: 45%;
+    border-radius: 12px;
+    padding: 12%;
+    float: right;
+    margin-top: -36%;
+}
+
+.contain .new-text{
+    margin: -50%;
+    color: blue;
+}
+
+.contain .image-text{
+   
+    margin: -14%;
+}
+
+.contain .price-box .inner-box{
+    padding: 7%;
+    position: absolute;
+    width: 35%;
+    right: 9%;
+    margin-top: 10%;
+    background-color: aliceblue;
+}
+
+.contain .relted-product{
+    padding-top: 30px;
+}
+
+.contain .relted-product .product-button button{
+    border: none;
+    margin-left: 12px;
+    color: cornflowerblue;
+}
+
+.contain .relted-product .product-button{
+    margin-left: -10px;
+    padding-top: 12px;
+}
+
+.bottom-border{
+    border-bottom: 1px solid red;
+    width: 50%;
+    padding-top: 12px;
+}   
+
+.inner-header{
+    background-color: cadetblue;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+.inner-header ul li{
+    display: inline-block;
+    padding: 12px;
+    color: white;
+}
+
+.inner-header ul{
+    list-style-type: none;
+}
+
+.discription{
+border: 1px solid;
+width: 50%;
+padding: 2%;
+border-radius: 8px;
+}
+
+.product-summary{
+    border: 1px solid;
+    width: 50%;
+    padding: 3%;
+    margin-top: 4%;
+    border-radius: 8px;
+}
+
+.product-specification{
+    border: 1px solid;
+    width: 48%;
+    padding: 3%;
+    float: right;
+    border-radius: 8px;
+    position: relative;
+    margin-top: -12%;
+}
+
+.discription .heading-pera{
+    padding-top: 12px;
+}
+
+.discription .bottom-border{
+    width: 100%;
+}
+
+.inner-box .price-text{
+    margin: -30%;
+}
+
+.error-text{
+    padding: 10px;
+    background-color: antiquewhite;
+    margin-top: 12px;
+}
+
+.Quantity-box{
+    padding-top:36%;
+    position: absolute;
+    left: -4%;
+    top: -27%;
+}
+
+.Quantity-box ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.Quantity-box input{
+    width: 50%;
+}
+
+.Quantity-box button{
+    margin-left: -90px;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.ac-img img{
+    width: 100%;
+    margin-top: 20%;
+} 

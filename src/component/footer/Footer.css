@@ -1,0 +1,37 @@
+.footer{
+    background-color: whitesmoke;
+    padding: 1%;
+    margin-top: 6%;
+}
+
+ .content {
+    margin: 0 auto;  
+    width: 85%;
+  }
+
+ .footer ul {
+    list-style-type: none;
+    padding-top: 18px;
+}
+
+ .footer ul li {
+    padding: 8px;
+}
+
+.footer .content strong{
+    margin-left: 14%;
+}
+
+.copy-right{
+  padding: 7%;
+}
+
+.footer ul li a{
+   text-decoration: none;
+   color: #13bef7;
+}
+
+.copy-right a{
+    text-decoration: none;
+    color: #13bef7;
+}

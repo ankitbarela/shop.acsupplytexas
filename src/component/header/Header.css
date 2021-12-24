@@ -1,0 +1,21 @@
+.header{
+    padding-top: 7%;
+}
+
+.header-box{
+    background-color: #4B616F;
+    padding: 20px;
+    text-align: center;
+}
+
+.dropdown-Button {
+    border: none;
+    background-color: transparent;
+    color: white;
+    padding-left: 30px;
+    font-weight: bold;
+}
+
+.dropdown{
+    display: inline-block;
+}
