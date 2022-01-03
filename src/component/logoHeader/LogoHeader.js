@@ -23,7 +23,7 @@ export default function LogoHeader() {
                     </div>
                     <div className="search-box">
                         <input type="text" placeholder="Search..."/>
-                        {/* <input type="text" value={'go'} className='go-search' /> */}
+                        <input type="text" value={'go'} className='go-search' />
                     </div>
                     <div className="right-content">
                       <ul>
